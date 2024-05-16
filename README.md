@@ -8,4 +8,7 @@ compartilhamento dos meus projetos desenvolvidos
 
 @eng.maxvargas 👷
 
+![Naruto](https://media1.tenor.com/m/13GSh6Y21R4AAAAC/naruto-naruto-shippuden.gif)
+- Estou estudando na [Alura](https://www.alura.com.br)
+
 
